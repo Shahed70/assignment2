@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.brand-text{
+    font-size: 25px;
+    font-weight: 600;
+    color: #A0B941;
+}
+.brand-fashion{
+    font-size: 25px;
+    font-weight: 600; 
+}
+.brand-logo img{
+    width: 55px;
+    height:auto ;
+}
+.heading-top-part{
+    color: #FABE4C;
+}
+.heading-bottom-part{
+    color:#363958;
+}
+.heading-top-part p{
+    color:#4F4F4E;
+}
+/* Main section style start here */
+.bg-color{
+    background-color: #FFFBF0;
+}
+.buy-btn{
+    background-color: #A0B941;
+    color: #FFFBF0;
+}
+.buy-btn:hover{
+    background-color: #A0B941;
+    color: #FFFBF0;
+}
+.header-image img{
+    width: 400px;
+    height: auto;
+    max-height:445px;
+}
+/* Main section style end here */
